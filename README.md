@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shternoa
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking for a job
+- 📫 How to reach me: mamiedov.elman.mo@gmail.com
